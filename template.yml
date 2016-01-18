@@ -14,7 +14,7 @@
   Parameters:
     DomainRoot:
       Description: "Domain name for your website (example.com)"
-      Default: "rsb.io"
+      Default: "neckbeard.engineer"
       Type: "String"
   Resources:
     SiteDNS:

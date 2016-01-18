@@ -4,7 +4,7 @@ iam:
   policy:
     name: ExecRolePolicy
   role:
-    name: "HugoSiteStack-ExecRole-OVVV8OR24K23"
+    name: EXECROLE
 lambda:
   name: HugoLamdaBLOG
   zipfile_name: HugoGenerate.zip
